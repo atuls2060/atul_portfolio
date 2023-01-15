@@ -7,7 +7,7 @@ const Experience = () => {
             <CardBody>
                 <VStack gap={2}>
                     <ExperienceCard title="Full Stack Developer" duration="july 2022 - present" />
-                    <ExperienceCard title="BTech Mech" duration="july 2020" />
+                    <ExperienceCard title="BTech Mechanical" duration="july 2020" />
                 </VStack>
             </CardBody>
         </Card>
